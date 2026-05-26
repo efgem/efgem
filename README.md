@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Victor! 👋
 
-<!--
-**efgem/efgem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from Brazil, I'll be studying Computer Science at UFES next year, and my goal is to work as a Backend developer, later transitioning into MLOps. Currently, I'm building my foundation in logic and programming.
 
-Here are some ideas to get you started:
+## 💻 My current studies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python for Everybody** (University of Michigan / Coursera)
+
+##
+
+On this platform, I will share my learning and personal projects, create/contribute to real-world projects, and do everything that gives me hands-on, real experience.  
+
+With that said, see you around!
