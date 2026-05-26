@@ -8,6 +8,6 @@ I'm from Brazil, I'll be studying Computer Science at UFES next year, and my goa
 
 ##
 
-On this platform, I will share my learning and personal projects, create/contribute to real-world projects, and do everything that gives me hands-on, real experience.  
+On this platform, I will share my learning journey and personal projects, contribute to real-world projects, and do everything that gives me hands-on experience.  
 
 With that said, see you around!
